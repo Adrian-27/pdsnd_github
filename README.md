@@ -7,7 +7,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Calculate statistics and built an interactive enviroment where a user chooses the data and filter for a dataset to analyze.
+Calculate statistics and built an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
 Include the files used
