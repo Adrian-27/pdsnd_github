@@ -18,6 +18,13 @@ def get_filters():
 
     print("Hello! Let\'s explore some US bikeshare data!")
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+
+    """
+    String Formatting Woes
+        Already used .format where it's possible. More information on refactoring (beside 2 links) would be great.
+        No idea how I can improve the code.
+    """
+
     cities = ["chicago", "new york city", "washington"]
     while True:
         city = input("Would you like to see data for Chicago, New York City, or Washington?\n").lower()
@@ -188,7 +195,7 @@ def display_data(df):
         view_display = input("Do you wish to continue?: ").lower()
         view_data = view_display
 
-
+    """If I would know how to improve the code, I would have done it already"""
 def main():
     while True:
         city, month, day = get_filters()
