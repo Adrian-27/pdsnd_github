@@ -188,7 +188,7 @@ def display_data(df):
         view_display = input("Do you wish to continue?: ").lower()
         view_data = view_display
 
-
+    """If I would know how to improve the code, I would have done it already"""
 def main():
     while True:
         city, month, day = get_filters()
